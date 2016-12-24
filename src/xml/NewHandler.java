@@ -4,6 +4,7 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
+/*ο κωωωωστααααας τον παιρνει :D */
 //Θέλω να βάλω τον σκελετό τριών μεθόδων	
 //Να χρησιμοποιήσω το hashtable
 //Εργασία *, μπορω να φτιάχνω publication και να το αποθυκεύω όπως εδώ με temp και αν δεν το χρειαστώ να το ξεσκαρτάρω
